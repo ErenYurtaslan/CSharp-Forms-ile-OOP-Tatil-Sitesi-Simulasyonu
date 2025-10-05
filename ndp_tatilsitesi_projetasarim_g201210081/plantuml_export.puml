@@ -1,0 +1,91 @@
+@startuml
+' Mekan hiyerarşisi
+class Mekan {
+  +string Tur
+  +string Ad
+}
+class Daire extends Mekan
+class Fitness extends Mekan
+class Havuz extends Mekan
+
+' Oturan hiyerarşisi
+abstract class Oturan {
+  +string AdSoyad
+  +int Borc
+}
+class AileReisi extends Oturan {
+  +string DaireNo
+}
+class Misafir extends Oturan
+
+' KullanimKaydi
+class KullanimKaydi {
+  +string AdSoyad
+  +string DaireNo
+  +string KullaniciTipi
+  +string MekanAdi
+  +string Sonuc
+}
+
+' Odeme
+class Odeme {
+  +string AdSoyad
+  +int Tutar
+  +string DaireNo
+}
+
+' DosyaIslemleri (statik yardımcı sınıf)
+class DosyaIslemleri {
+  +static List<Mekan> MekanlariOku(dosyaYolu)
+  +static void MekanEkle(dosyaYolu, Mekan)
+  +static void MekanSil(dosyaYolu, mekanAdi)
+  +static void MekanGuncelle(...)
+  +static List<Oturan> OturanlariOku(dosyaYolu)
+  +static void OturanEkle(dosyaYolu, Oturan)
+  +static void OturanSil(dosyaYolu, adSoyad, daireNo)
+  +static void OturanGuncelle(...)
+  +static List<Odeme> OdemeleriOku(dosyaYolu)
+  +static void OdemeEkle(dosyaYolu, Odeme)
+  +static void OdemeSil(dosyaYolu, adSoyad, daireNo)
+  +static void OdemeGuncelle(...)
+  +static List<KullanimKaydi> KullanimKayitlariniOku(dosyaYolu)
+  +static void KullanimKaydiEkle(dosyaYolu, KullanimKaydi)
+  +static bool BorcuVarMi(...)
+}
+
+' Formlar (UI)
+class Form1
+class MekanEkleForm
+class OturanEkleForm
+class OdemeEkleForm
+class KullanimEkleForm
+
+' İlişkiler
+Mekan <|-- Daire
+Mekan <|-- Fitness
+Mekan <|-- Havuz
+
+Oturan <|-- AileReisi
+Oturan <|-- Misafir
+
+Form1 ..> DosyaIslemleri : veri işlemleri
+Form1 ..> Mekan
+Form1 ..> Oturan
+Form1 ..> KullanimKaydi
+Form1 ..> Odeme
+
+MekanEkleForm ..> Mekan
+OturanEkleForm ..> Oturan
+OdemeEkleForm ..> Odeme
+KullanimEkleForm ..> KullanimKaydi
+
+DosyaIslemleri ..> Mekan
+DosyaIslemleri ..> Oturan
+DosyaIslemleri ..> Odeme
+DosyaIslemleri ..> KullanimKaydi
+
+KullanimKaydi --> Oturan : AdSoyad, DaireNo, KullaniciTipi
+KullanimKaydi --> Mekan : MekanAdi
+Odeme --> Oturan : AdSoyad, DaireNo
+
+@enduml

@@ -1,0 +1,9 @@
+AileReisi,Pertav Uygun,0,C8
+Misafir,Ayşe Sıla Yılmazer,0,
+AileReisi,Ali Veli,7,A2
+Misafir,Şehnaz Kaçan,0,
+AileReisi,Ergun Hamzaköy,3,A3
+AileReisi,Sancar Alpay Güngördü,0,B7
+AileReisi,Selçuk Erhan Aygün,3,B4
+AileReisi,A. Eren Yurtaslan,0,A1
+AileReisi,Eymen Esat Yurtaslan Gürpınar Jr.,67,C6

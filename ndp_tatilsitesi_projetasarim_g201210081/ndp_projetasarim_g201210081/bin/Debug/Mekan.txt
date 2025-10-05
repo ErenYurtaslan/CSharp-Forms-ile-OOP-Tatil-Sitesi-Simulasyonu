@@ -1,0 +1,40 @@
+Fitness,Genel Fitness Salonu 1
+Havuz,Site Havuzu
+Fitness,Hard Body Room
+Fitness,Crossfit Salonu
+Havuz,Çocuk Havuzu
+Daire,A1
+Daire,A3
+Daire,A4
+Daire,A5
+Daire,A6
+Daire,A7
+Daire,A8
+Daire,A9
+Daire,A10
+Daire,B1
+Daire,B2
+Daire,B3
+Daire,B4
+Daire,B5
+Daire,B6
+Daire,B7
+Daire,B8
+Daire,B9
+Daire,B10
+Daire,C1
+Daire,C2
+Daire,C3
+Daire,C4
+Daire,C5
+Daire,C6
+Daire,C7
+Daire,C8
+Daire,C9
+Daire,C10
+Daire,A2
+Fitness,Kardiyo Salonu
+Havuz,Olimpik Havuz 2.75 m
+Havuz,Termal Havuz
+Fitness,Genel Fitness Salonu 2
+Havuz,Olimpik Havuz 3.50 m

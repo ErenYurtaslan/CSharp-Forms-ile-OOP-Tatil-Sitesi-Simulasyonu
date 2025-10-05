@@ -1,0 +1,9 @@
+A. Eren Yurtaslan,A1,AileReisi,Çocuk Havuzu,Kullandirildi
+Ali Veli,A2,AileReisi,Site Havuzu,Kullandırılamadı (Borc Var)
+Şehnaz Kaçan,,Misafir,Site Havuzu,Kullandırıldı
+A. Eren Yurtaslan,A1,AileReisi,Olimpik Havuz,Kullandırıldı
+Eymen Esat Yurtaslan Gürpınar Jr.,C6,AileReisi,Olimpik Havuz 2.75 m,Kullandırılamadı (Borc Var)
+Selçuk Erhan Aygün,C3,AileReisi,Olimpik Havuz 3.50 m,Kullandırıldı
+Pertav Uygun,C7,AileReisi,Termal Havuz,Kullandırılamadı (Borc Var)
+Sancar Alpay Güngördü,B7,AileReisi,Olimpik Havuz 3.50 m,Kullandırıldı
+Selçuk Erhan Aygün,B4,AileReisi,Çocuk Havuzu,Kullandırılamadı (Borc Var)

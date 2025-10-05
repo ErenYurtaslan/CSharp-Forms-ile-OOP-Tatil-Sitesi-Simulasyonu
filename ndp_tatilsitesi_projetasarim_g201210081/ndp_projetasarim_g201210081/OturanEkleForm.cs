@@ -1,16 +1,4 @@
-/******************************************************************************
-**
-**        SAKARYA ÜNİVERSİTESİ
-**        BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**        BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**        NESNEYE DAYALI PROGRAMLAMA DERSİ
-**        2024-2025 BAHAR DÖNEMİ
-**
-**        ÖDEV NUMARASI........: 3
-**        ÖĞRENCİ ADI..........: Abdulkadir Eren Yurtaslan
-**        ÖĞRENCİ NUMARASI.....: g201210081
-**        DERSİN ALINDIĞI GRUP.: 2/A
-******************************************************************************/
+
 using System;
 using System.Drawing;
 using System.Windows.Forms;

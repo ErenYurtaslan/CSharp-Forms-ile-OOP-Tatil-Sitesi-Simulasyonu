@@ -1,0 +1,16 @@
+C:\Users\Eren Yurtaslan\source\repos\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.csproj.AssemblyReference.cache
+C:\Users\Eren Yurtaslan\source\repos\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.Properties.Resources.resources
+C:\Users\Eren Yurtaslan\source\repos\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.csproj.GenerateResource.cache
+C:\Users\Eren Yurtaslan\source\repos\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.csproj.CoreCompileInputs.cache
+C:\Users\Eren Yurtaslan\source\repos\ndp_projetasarim_g201210081\bin\Debug\ndp_projetasarim_g201210081.exe
+C:\Users\Eren Yurtaslan\source\repos\ndp_projetasarim_g201210081\bin\Debug\ndp_projetasarim_g201210081.pdb
+C:\Users\Eren Yurtaslan\source\repos\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.exe
+C:\Users\Eren Yurtaslan\source\repos\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.pdb
+C:\Users\Eren Yurtaslan\Desktop\ndp_tatilsitesi_projetasarim_g201210081\ndp_projetasarim_g201210081\bin\Debug\ndp_projetasarim_g201210081.exe
+C:\Users\Eren Yurtaslan\Desktop\ndp_tatilsitesi_projetasarim_g201210081\ndp_projetasarim_g201210081\bin\Debug\ndp_projetasarim_g201210081.pdb
+C:\Users\Eren Yurtaslan\Desktop\ndp_tatilsitesi_projetasarim_g201210081\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.csproj.AssemblyReference.cache
+C:\Users\Eren Yurtaslan\Desktop\ndp_tatilsitesi_projetasarim_g201210081\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.Properties.Resources.resources
+C:\Users\Eren Yurtaslan\Desktop\ndp_tatilsitesi_projetasarim_g201210081\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.csproj.GenerateResource.cache
+C:\Users\Eren Yurtaslan\Desktop\ndp_tatilsitesi_projetasarim_g201210081\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.csproj.CoreCompileInputs.cache
+C:\Users\Eren Yurtaslan\Desktop\ndp_tatilsitesi_projetasarim_g201210081\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.exe
+C:\Users\Eren Yurtaslan\Desktop\ndp_tatilsitesi_projetasarim_g201210081\ndp_projetasarim_g201210081\obj\Debug\ndp_projetasarim_g201210081.pdb
